@@ -1,0 +1,10 @@
+{
+    "cards": {
+        "cta.CTATracker": {
+            "key": "MY_API_KEY",
+            "stops": {
+                "6684": ["157"]
+            }
+        }
+    }
+}
